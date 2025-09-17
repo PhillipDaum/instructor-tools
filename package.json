@@ -1,0 +1,19 @@
+{
+  "name": "student-tools",
+  "version": "1.0.0",
+  "description": "Tools for creating random student groups and cold call lists",
+  "type": "module",
+  "main": "makeColdCallList.js",
+  "scripts": {
+    "cold-call": "node makeColdCallList.js",
+    "groups": "node makeGroups.js"
+  },
+  "keywords": [
+    "education",
+    "students",
+    "random",
+    "groups"
+  ],
+  "author": "Phil Daum",
+  "license": "MIT"
+}

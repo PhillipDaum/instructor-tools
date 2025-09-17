@@ -1,0 +1,23 @@
+# Ignore student data file to protect privacy
+students.js
+
+# Node.js dependencies
+node_modules/
+
+# Environment variables
+.env
+.env.local
+
+# IDE/Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+npm-debug.log*
