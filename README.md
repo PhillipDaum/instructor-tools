@@ -1,4 +1,4 @@
-# Student Tools
+# Instructor Tools
 
 Simple Node.js scripts for instructors to create random student groups and cold call lists.
 
